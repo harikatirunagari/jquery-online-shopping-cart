@@ -1,0 +1,428 @@
+/*
+To change this license header, choose License Headers in Project Properties.
+To change this template file, choose Tools | Templates
+and open the template in the editor.
+*/
+/* 
+    Created on : 10 Jun, 2017, 6:16:19 PM
+    Author     : Harika
+*/
+
+.categories{
+    width : 15%;    
+    text-align : center;    
+    
+    left : 1%;
+}
+
+ul{
+    padding : 0px;
+    margin : 0px;
+}
+
+li{
+    list-style: none;
+}
+
+.categories ul li {
+    list-style : none;
+    padding : 10px;
+    margin : 10px;
+    font-size : 18px;
+    font-style: italic;
+    color : white;
+    border : 1px solid black;    
+    background-color: #3cacd1;;
+}
+
+.categories ul li:hover{
+    text-decoration : underline;
+    cursor : pointer;
+}
+
+.categories,.allProducts{    
+    border : 2px solid green;    
+    position : relative;
+    overflow-y : auto;
+    height : 101%;
+    top : -4%;
+}
+
+/*.outsideCart{
+    position : fixed;
+    right : 20%;
+    top : 11%;
+}*/
+
+.allProducts{
+    width : 80%;    
+    position : absolute;
+    
+    left : 18%;
+}
+
+.pageContainer {
+    border : 4px solid green;
+    padding : 5px;
+}
+
+.productDetails{
+    border : 1px solid black;
+    border-radius : 20px;
+    width : 30%;
+    margin : 10px;
+    padding : 20px;
+    display:inline-block;
+}
+
+ .ImageContainer img,.ImageContainer{
+    height :60%;
+    width : 50%;
+    border : 2px solid black;
+    border-radius : 15px;
+}
+
+.productDetails .details span{
+    background : tomato;
+    color : white;
+    border : 2px solid white;
+    border-radius : 8px;
+    font-size : 18px;    
+}
+
+.productDetails .details span:hover,#logout:hover,.carthover:hover,.eachViewCart:hover{
+    text-decoration : underline;
+    cursor : pointer;
+}
+
+.outsideCart,.eachViewCart{
+    
+    
+    /*background : #31bfde;;*/
+    height : 25px;
+    color : #31bfde;
+    /*border : 2px solid white;*/
+    /*border-radius : 5px;*/
+    font-size : 19px;     
+}
+
+.outsideCart,.userH,#logout{
+    position : fixed;
+    z-index : 5;    
+}
+
+
+
+.outsideCart{
+   top : 10%;
+   right : 17%; 
+}
+
+.userH{
+    right :7%;
+    color : black;
+    font-size : 18px;
+    top : 10%;
+}
+
+#logout{
+  right : 2%;
+  font-size : 16px;
+  top : 11%;
+  
+}
+
+
+
+#showCompleteProducts .eachViewCart{
+   text-align : center;
+   margin-left : -49px !important;
+   margin-top : 20px !important;
+}
+
+
+
+.selectedCategory1{
+    background-color:#b415b4 !important;
+}
+
+.showCart{
+    text-align : right;
+}
+.productDetailsDivContent,#maskBlock,.cart{
+    display : none;
+    position : absolute;
+}
+
+.productDetailsDivContent, .cart {
+    top: -13%;
+    left: 3%;
+    right: 3%;
+    background: #e6eacd;
+    
+    width: 95%;
+    border: 5px solid green;
+}
+
+.productDetailsDivContent{
+    z-index : 6;
+    height: 117%;
+}
+.cart {
+    overflow : auto;
+    z-index : 20;
+    height: 85%;
+}
+
+.cart div:first-child{
+    text-align : right;
+    font-size : 18px;    
+}
+
+.cart div:first-child a{
+    color : white;
+    text-decoration: none;
+}
+
+.cart div:last-child{
+    position :absolute;
+    top : 30;
+    width : 100%;
+    background : green;
+    color : white;
+    font-size : 20px;
+    font-weight : bold;
+}
+
+.cart div:first-child a:hover {
+    text-decoration :underline;
+}
+
+#cartDetails table{
+    display : block;
+    border : 2px solid green;
+    margin : 18px;
+    padding : 5px;
+}
+
+#cartDetails table tr td:first-child{
+    color:thistle;
+}
+
+#cartDetails .borderStyle{
+    border : 5px solid green;
+}
+
+#closeTag{
+  position : fixed;
+  top : 4%;
+  right : 4%;
+  width : 80%;
+}
+
+#cartBlock{
+    height : 23%;
+    width : 93%;
+    position : fixed;
+    bottom : 3%;
+    border : 1px solid white;
+    padding-top : 2%;
+    padding-right : 2%;
+}
+
+#totalPrice,#totalDeliveryCharges,#overallCharges{
+    display : inline-block;
+    width : 80px;
+    text-align : right;
+}
+
+#cartBlock .priceLabel{
+    display : inline-block;
+    width : 324px;
+}
+
+
+.productDetailsDivContent div{
+    text-align: right; 
+   
+}
+.subTitle{
+    font-size : 22px;
+    font-weight : bold;
+    font-style : italic;
+    
+    color : #f80e0e; 
+    font-family:'Faster One';
+}
+
+.rsub {
+    position : absolute;
+    bottom : 38%;  
+    left :1%;
+    /*text-align: right;*/
+}
+
+.reviews{
+    /*display : block;*/
+    
+    position : absolute;
+    bottom : 1%;
+    height : 33%;
+    border : 3px solid green;
+    margin : 0px 6px;
+    
+}
+
+#reviewBlock{
+    text-align: left;
+    font-size : 15px;
+    color : brown;
+    font-variant: normal;
+    font-weight : normal;
+    /*margin : 5px;
+    margin-right : 10px;
+   
+    padding : 5px;*/
+    width : 100%;
+    height : 90%;
+    overflow-y : auto;
+    
+}
+
+#reviewBlock li{
+    margin : 6px;
+    height : 26%;
+}
+
+.userWidth1{
+    width : 7%;
+    clear : both;
+    /*height : 2%;*/
+    /*margin-top : 5%;*/
+}
+
+.userWidth2{
+    width : 92%;
+}
+
+.comments{
+    color : purple;
+}
+
+.comments::after{
+    content : "Check it now !!!";
+    background : yellow;
+}
+
+input[value="Add To Cart"],input[value="Added to Cart"]{
+   position : absolute;
+   left : 31%;
+   top : 48%; 
+}
+
+input[value="Add To Cart"],input[value="Added to Cart"],input[value="Remove"]{    
+    border-radius : 10px;
+    background : blue;
+    color : white;
+    height : 50px;
+    font-size : 18px;
+    width : 200px;
+    font-style : italic;
+}
+
+input[value="Added to Cart"]:disabled{
+    background : skyblue;
+}
+
+#manufacturerDetails table{
+    border : 1px solid green;
+    font-size : 18px;
+    width: 112%;
+    margin-left : 42px;
+}
+
+.productImages,.detailsBlock12{
+    float : left;
+}
+
+.productImages {
+    border: 3px solid green;
+    margin-left: 0.5%;
+    margin-right: 0.5%;
+    margin-bottom: 5%;
+    margin-top: -1.5%;
+}
+
+.productDetailsDivContent div a:link,.productDetailsDivContent div a:visited{
+    color : white;
+    font-size : 20px;
+}
+
+.productDetailsDivContent div a:hover{
+    text-decoration: underline;
+    cursor : pointer;
+}
+
+.productDetailsDivContent div a:active{
+    color : red;
+}
+
+/*.productDetailsDivContent  table thead, .productDetailsDivContent  table tfoot{
+    background : green;
+}*/
+
+#maskBlock{
+    top : 0;
+    left : 0;
+    right : 0;
+    bottom : 0;
+    opacity : 0.5;
+    background : yellow;
+    z-index : 5;
+}
+
+
+#detailedProducts img {
+    height: 100px;
+    width: 113px;
+}
+
+
+#mainImage {
+    height: 200px;
+    width: 100%;
+}
+
+
+.starImage{
+    height : 20px;
+    width : 20px;
+}
+
+#showCompleteProducts table{
+    font-size : 18px;
+    width: 132%;
+}
+
+.productDetailsDivContent .reviewDivs{
+    float : left;
+    /*display : inline-block;*/
+    text-align : left;
+}
+
+.productDetailsDivContent .reviewDivs:first-child{
+    /*width : 8%; */
+    font-size : 18px;
+   
+}
+
+.productDetailsDivContent .reviewDivs:last-child{
+    /*width : 92%;*/
+    color : #1b2786e6;
+}
+
+.productDetailsDivContent span.ratingStars1{
+    display : inline-block;
+}
+
+

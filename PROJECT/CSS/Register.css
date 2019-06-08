@@ -1,0 +1,188 @@
+/*
+To change this license header, choose License Headers in Project Properties.
+To change this template file, choose Tools | Templates
+and open the template in the editor.
+*/
+/* 
+    Created on : 6 Jun, 2017, 7:40:41 PM
+    Author     : Harika
+*/
+
+.registrationBlock {
+    height: 98%;
+    width: 95%;
+    overflow: auto;
+    margin: -7px 0px -40px 38px;
+    border: 3px solid green;
+}
+
+.title{
+    height : 40px;
+    margin : 5px;
+    text-align: center;
+    font-size : 30px;
+    text-align : center;
+    color :sandybrown;
+    font-style : italic;
+}
+
+.detailsBlock{
+    position : relative;    
+    width : 88%;
+    padding : 50px;
+    margin : 15px 40px 70px 20px;
+    font-size : 18px;
+    border : 1px solid green;   
+  
+}
+
+.detailsBlock div ul li span,
+.heightPersonal .onlyDetails ul li.comm span div
+{
+    display:inline-block;    
+}
+
+.userReg{
+   height : 200px;
+}
+
+.userReg div ul li span:first-child{
+   width : 176px;  
+}
+
+.heightPersonal .onlyDetails ul li span{
+    width : 255px;
+}
+
+.heightPersonal .onlyDetails ul li span.lang{
+    width : 366px; 
+}
+
+.heightPersonal .onlyDetails ul li.comm span{
+    width : 426px;
+    
+    padding-left : 34px;
+}
+
+
+
+.heightPersonal .onlyDetails ul li.comm span div:first-child{
+    width : 213px;
+}
+
+li span.lang input{
+    padding : 5px;
+}
+.onlyDetails{
+    height : 100%; 
+}
+
+.heightPersonal{
+    height : 60%;
+}
+
+.eduBlock{
+    height : 55%;
+}
+
+.eduBlock .onlyDetails ul li span:first-child{
+    width : 166px;   
+}
+
+.eduBlock .onlyDetails ul li span:first-child,
+.userReg div ul li span:first-child{
+    margin-left : 20px;
+}
+
+.personalDetailsTitle,.educationDetailsTitle,.addressDetailsTitle{
+    position : absolute; 
+    height : 50px;
+    width : 250px;
+    border : 1px solid green;
+    border-radius : 2em;
+    background: green;
+    text-align : center;
+    top : -27px;
+    font-size : 25px;
+    font-style : italic;
+    color : white;
+    padding-top: 10px;
+}
+
+
+
+input[type=text],input[type=password] {
+    width: 200px;
+    padding: 5px 20px;
+    margin: 10px 0;
+    font-size: 15px;
+    border: 1px solid #ccc;
+    border-radius: 5px;
+    box-sizing: border-box;
+}
+
+input[type=text]:focus,input[type=password]:focus{
+    border : 1px solid blue;
+}
+
+input[type=button]{
+    width : 100px;
+    height : 35px;
+    background:violet;
+    color : white;
+    border : 2px solid white;
+    border-radius : 10px;
+    font-size : 18px;
+    font-variant : small-caps;
+   
+}
+
+.submitBlock{
+    height : 100px;
+    width : 100%;
+    text-align : center;    
+}
+
+
+select,.eduBlock input[type=text]{
+    width: 279px;
+    padding: 5px 20px;
+    margin: 10px 0;
+    font-size: 15px;
+    border: 1px solid #ccc;
+    border-radius: 5px;
+    box-sizing: border-box;
+}
+
+.eduBlock input[type=text]:focus{
+   border : 1px solid blue;
+}
+
+li{
+    list-style : none;
+    padding : 5px;
+    margin : 5px;      
+}
+
+.addressDetails{
+    height: 45%;
+    width : 95%;
+    border : 1px solid gold;
+    margin-bottom : 40px;
+    padding : 3px 20px; 
+   
+}
+
+.addressDetails h4{
+    color : violet;
+}
+
+.addrDetails{
+    height : 125%;
+}
+
+.highlightClass{
+   border : 1px solid red;
+}
+
+

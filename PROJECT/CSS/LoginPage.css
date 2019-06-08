@@ -1,0 +1,71 @@
+/*
+To change this license header, choose License Headers in Project Properties.
+To change this template file, choose Tools | Templates
+and open the template in the editor.
+*/
+/* 
+    Created on : 5 Jun, 2017, 9:42:39 PM
+    Author     : Harika
+*/
+
+
+.login{       
+    height : 70%;
+    width : 50%;
+    border : 1px solid green;
+    margin-top : 50px;
+    padding-bottom : 30px;
+}
+
+.links{
+    color:#269abc;
+    
+}
+
+.links:hover{
+    color:purple;
+}
+
+/*.links:active{
+    color:#46b8da;
+}*/
+
+
+
+/* For arranging Forgot Password and Register */
+tbody tr:last-child td:first-child{
+    text-align : right;
+}
+
+tbody tr:last-child td:last-child{
+    /*text-align: center;*/
+    padding-left : 294px;
+}
+
+.userName,.loginFailed,.alertMsg{
+    visibility : hidden;
+    height : 15px;
+    color : red;
+    font-size : 15px;
+    padding-left : 20%;
+}
+
+
+.LoginButton{
+    padding-left : 122px;
+}
+
+#loginBtn:disabled{
+    background:threedshadow;
+    cursor : not-allowed;
+}
+
+.options {
+    text-align: left;
+    font-size: 14px;
+    color: #421584e6;
+}
+
+.optionsDiv{
+    padding-left:69px;
+}

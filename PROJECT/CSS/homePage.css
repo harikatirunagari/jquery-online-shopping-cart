@@ -1,0 +1,92 @@
+/*
+To change this license header, choose License Headers in Project Properties.
+To change this template file, choose Tools | Templates
+and open the template in the editor.
+*/
+/* 
+    Created on : 5 Jun, 2017, 4:15:29 PM
+    Author     : Harika
+*/
+.logoImage{
+    height : 60px;
+    width : 90px;
+    position : absolute;
+    top : 2px;
+    left : 50px;    
+}
+
+.logoImage:hover{
+    cursor : pointer;
+}
+
+#title,#bottomContainer{  
+    background : pink;
+    width : 100%;
+}
+
+#title {
+    height : 7%;
+    border-bottom : 1px solid green;
+    position : fixed;
+    top : 0px;
+    left : 0px;
+    right : 0px;    
+}
+
+.mainTitle{
+    text-align : center;
+    letter-spacing : 2px;    
+    color : green;
+    font-size : 30px;
+    margin : 23px auto;    
+}
+
+#bottomContainer {
+    height : 4%;
+    text-align : center;
+    padding-top : 10px;
+    border-top : 1px solid green;
+    position : fixed;
+    bottom : 0px;
+    left : 0px;
+    right: 0px;
+}
+
+#pageContainer{
+    position: absolute;
+    top: 14%;
+    right: 0px;
+    bottom: 5%;
+    left: 0px;    
+    height: 79%;
+    width: 100%; 
+    
+}
+
+/* mainContainer This is extra even if we donot write also no worries */
+#mainContainer{
+    overflow : hidden;
+}
+
+/*Changes direction of data to right*/
+#todayDate,#timeObj,#logout{    
+     
+    font-size : 16px;
+    
+    color:#a94442;
+}
+
+#todayDate,#timeObj{
+    font-variant-caps:small-caps;
+    position : absolute;   
+}
+#todayDate{
+    top : 70%;
+    right : 2px;
+    direction : rtl;
+}
+
+#timeObj{
+    right : 0;
+    bottom : 100%;
+}
