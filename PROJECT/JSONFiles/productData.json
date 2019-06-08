@@ -1,0 +1,148 @@
+{
+    "productDetails" : {
+      "Juicers" :  {            
+            "categoryName" : "Home Appliances",
+            "manufacturer" : "Morphy Richards",
+            "productImg" : "../IMAGES/JUICERS/Juicers.jpg",
+            "description" : "Nice Juicers !!! ",
+            "productPrice" : "300$",
+            "productID" : 1001
+        },
+       "Kettles" : {           
+            "categoryName" : "HomeAppliances",
+            "manufacturer" : "Morphy Richards",
+            "productImg" : "../IMAGES/KETTLES/Kettles.jpg",
+            "description" : "Hot Hot Coffee !!!",
+            "productPrice" : "6000$",
+            "productID" : 1002
+        },
+       "Sandwich Makers" : {          
+            "categoryName" : "HomeAppliances",
+            "manufacturer" : "Prestige",
+            "productImg" : "../IMAGES/Sandwich Makers/Sandwich Maker.jpg",
+            "description" : "Hot Dogs",
+            "productPrice" : "90000$",
+            "productID" : 1003
+        },
+       "VCR" : {            
+            "categoryName" : "Electronics",
+            "manufacturer" : "Sony",
+            "productImg" : "../IMAGES/VCR/VCD.jpg",
+            "description" : "Movies !!!",
+            "productPrice" : "8000$",
+            "productID" : 1004
+        },
+       "Penguin Toys" : {
+            "categoryName" : "Toy Store",
+            "manufacturer" : "Agglo",
+            "productImg" : "../IMAGES/Toy Store/Penguin Toys/penguinToy.jpg",
+            "description" : "How sweet !!!!",
+            "productPrice" : "9000$",
+            "productID" : 1005
+        },
+        "Racing Cars" : {
+            "categoryName" : "Toy Store",
+            "manufacturer" : "Agglo",
+            "productImg" : "../IMAGES/Toy Store/RacingCars/toyCar.jpg",
+            "description" : "What a race !!!!",
+            "productPrice" : "9000$",
+            "productID" : 1006
+        },
+        "Chairs" : {
+            "categoryName" : "Teak Products",
+            "manufacturer" : "Walto Timber Craft",
+            "productImg" : "../IMAGES/Teak Products/Chairs/teakChair.jpg",
+            "description" : "Comfortable",
+            "productPrice" : "98900$",
+            "productID" : 1007
+        },
+        "Tables" : {
+            "categoryName" : "Teak Products",
+            "manufacturer" : "Walton Timber Craft",
+            "productImg" : "../IMAGES/Teak Products/Tables/teakTable.jpg",
+            "description" : "Happy Dining",
+            "productPrice" : "98900$",
+            "productID" : 1008
+        },
+         "Cushines" : {
+            "categoryName" : "Furniture",
+            "manufacturer" : "Sofy Cushines",
+            "productImg" : "../IMAGES/Furniture/Cuishine Sofas/Furniture.jpg",
+            "description" : "Comfort Zone",
+            "productPrice" : "98900$",
+            "productID" : 1009
+        },
+        "Anklets" : {
+            "categoryName" : "Jewllery",
+            "manufacturer" : "Khazana Jewellers",
+            "productImg" : "../IMAGES/Jewellery/Anklets/Jewellery.jpg",
+            "description" : "No Tarnish",
+            "productPrice" : "98900$",
+            "productID" : 1010
+        },
+        "Chains" : {
+            "categoryName" : "Jewllery",
+            "manufacturer" : "Trisha Jewellers",
+            "productImg" : "../IMAGES/Jewellery/Chains/Jewellery.jpg",
+            "description" : "No Tarnish",
+            "productPrice" : "98900$",
+            "productID" : 1011
+        },
+        "Ear Rings" : {
+            "categoryName" : "Jewllery",
+            "manufacturer" : "Trisha Jewellers",
+            "productImg" : "../IMAGES/Jewellery/EarRings/Jewellery.jpg",
+            "description" : "No Tarnish",
+            "productPrice" : "98900$",
+            "productID" : 1012
+        },
+        "Necklaces" : {
+            "categoryName" : "Jewllery",
+            "manufacturer" : "Khazana Jewellers",
+            "productImg" : "../IMAGES/Jewellery/Necklace/Jewellery.jpg",
+            "description" : "No Tarnish",
+            "productPrice" : "98900$",
+            "productID" : 1013
+        },
+        "Happy" : {
+            "categoryName" : "Paintings",
+            "manufacturer" : "Instant Paintings",
+            "productImg" : "../IMAGES/Paintings/Happy/Painting.jpg",
+            "description" : "awesome !!!",
+            "productPrice" : "98900$",
+            "productID" : 1014
+        },
+        "Misc" : {
+            "categoryName" : "Paintings",
+            "manufacturer" : "Instant Paintings",
+            "productImg" : "../IMAGES/Paintings/Misc/Painting.jpg",
+            "description" : "awesome !!!",
+            "productPrice" : "98900$",
+            "productID" : 1015
+        },
+        "Nature" : {
+            "categoryName" : "Paintings",
+            "manufacturer" : "Instant Paintings",
+            "productImg" : "../IMAGES/Paintings/Nature/Painting.jpg",
+            "description" : "awesome !!!",
+            "productPrice" : "989$",
+            "productID" : 1016
+        },
+         "Crockery" : {
+            "categoryName" : "Crockery",
+            "manufacturer" : "Instant Crockery",
+            "productImg" : "../IMAGES/Crockery/Crockery/Crockery.jpg",
+            "description" : "awesome !!!",
+            "productPrice" : "989$",
+            "productID" : 1017
+        },
+        "Glass Crockery" : {
+            "categoryName" : "Crockery",
+            "manufacturer" : "Instant Crockery",
+            "productImg" : "../IMAGES/Crockery/Glass Crockery/GlassCrockery.jpg",
+            "description" : "awesome !!!",
+            "productPrice" : "989$",
+            "productID" : 1018
+        }
+    }
+}

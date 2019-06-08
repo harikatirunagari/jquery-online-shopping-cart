@@ -1,0 +1,1120 @@
+{
+    "Juicers" : {
+        "Images" : [
+            {
+               "Image" : "../IMAGES/JUICERS/Juicer1.jpg" 
+            },
+            {
+               "Image" : "../IMAGES/JUICERS/Juicer2.jpg" 
+            },
+            {
+                "Image" : "../IMAGES/JUICERS/Juicer3.jpg"
+            }
+        ],
+        "manufacturer" : {
+            "manuName" : "Raj Gopal",
+            "sellerID" : 1001,
+            "sellerContact" : 9642583945                
+        },        
+        "reviews" : [
+            {
+                "user" : "Keerthi",
+                "review" : "Good I tried it !!! hrthtrhrthrthrt hy5hyio5hie hohioghriog hgergg nhggggrtlkbnrtbnrtnhyioyi5yhi54yihngitnhiyiotyiotnhiortnhirtininhiernhiehiehehtgb egrgher hgtgrtgrtgrt hrrger fgrgrg vgrr hth bgfgf vdvd",                
+                "rating" : "4"
+            },
+            {
+                "user" : "Arun",
+                "review" : "Works Well yhjjjjjrwrthw56jy7je54yeyhdtfhfgjfyjfed uergergjgjknvk  hrtnjkhjrtnnh rtnhrtjhnrtjhb tjhtgrjrtfjrryjtyjtyjytj htjhrtjrt ththtgrhrt erhger kowkw wad ppp[p adadaxd lplpl[[ grgrgrg",
+                "rating" : "3"
+            },
+            {
+                "review" : "Enchances the pulpy !!! wsr3fatw3tgdrgrfghtfvhcfjnhyhjnfsh bhbgiergbiergbjgbj rgherherh hehehrth rhtht hrhtht grgrhrfhrdg grdfgrg oloikl xAZxaxa  tgyhrtyhrtyh jkjk, sdsdc edfgg yyy",
+                "user" : "Akash",
+                "rating" : "4.5"
+            },
+            {
+                "user" : "Arun",
+                "review" : "Works Well yhjjjjjrwrthw56jy7je54yeyhdtfhfgjfyjfed uergergjgjknvk  hrtnjkhjrtnnh rtnhrtjhnrtjhb tjhtgrjrtfjrryjtyjtyjytj htjhrtjrt ththtgrhrt erhger kowkw wad ppp[p adadaxd lplpl[[ grgrgrg",
+                "rating" : "3"
+            },
+            {
+                "user" : "Arun",
+                "review" : "Works Well yhjjjjjrwrthw56jy7je54yeyhdtfhfgjfyjfed uergergjgjknvk  hrtnjkhjrtnnh rtnhrtjhnrtjhb tjhtgrjrtfjrryjtyjtyjytj htjhrtjrt ththtgrhrt erhger kowkw wad ppp[p adadaxd lplpl[[ grgrgrg",
+                "rating" : "3"
+            }
+        ]
+        
+    },
+    "Kettles" : { 
+       
+        "Images" : [
+            {
+               "Image" : "../IMAGES/KETTLES/kettle1.jpg" 
+            },
+            {
+              "Image" : "../IMAGES/KETTLES/kettle2.jpg"
+            },
+            {
+              "Image" : "../IMAGES/KETTLES/kettle3.jpg" 
+            }
+        ],   
+     
+        "manufacturer" : {
+            "manuName" : "Narendra Varma",
+            "sellerID" : 1009,
+            "sellerContact" : 9642128963                
+        },      
+        
+        "reviews" : [
+            {                
+              "user" : "Girish",
+              "review" : "Good I tried it !!! ktnjhklh hjgthkigftrnmh hftrjhnm jopjhpoj gjnhyopmko ththftr htghftrhftrk htfrfjhtyjftr hftrjt hftrhjrtfhjtrf hgfthtgfrhrtf hgfthjftr",                
+              "rating" : "4"
+            },
+            {
+                "user" : "Swetha",
+                "review" : "grr trhntr htrhtr uhtrtr htrhtrh trhtrh htrhtrhtr htwr34295 htrwoitw  qerqa otikropgteri wwrftwerfwe werwebfrw wrweur werfwerf wegtuier whrweurhf qwehqwuierh wefwef wehtweiutfr werrgtwerhuig werther erutgheruio",
+                "rating" : "2.5"
+            },
+            {
+                "user" : "Vagdevi",
+                "review" :  "Serves hot hot!!! uhr rgtergt wijqiwerj rheogte grgerge hwuhweui wergtwergftn wetuwetnhf wehtgweo erhgeru gwerhjgioer weiqrjqwiorj werhgfterg weitjhweio weiojrwioe gergter tgewrhjgtoer gtergter ergtjwioe gergterio gterigtjerio erigtjero erjerog",
+                "rating" : "4"
+            },
+            {
+                "user" : "lopita Das",
+                "review" : " hgibghftb hrgr gerygfweruigf gfwergfwegf uiheruighwerguihggewyfre hrguireguirhe hgurehguerh hgerghergh greehgurehg gherguerhg ghreguierhg ghregher grehgureg hgurgh hgrghr ghrghr fbhgtht thtyhjty htrhtr6 tryh5trhy eryheryh o89p89 34r23r op98p89",
+                "rating" : "5"
+            },
+            {
+              "user" : "Rithivika",
+              "review" : "Good to see it !!! ",
+              "rating" : "3.5"
+            },
+            {
+                "user" : "Sathvik",
+                "review" : "jnjk trjgt gtrngj ijwigjw irgueri gerejgerio grehjgiotrj",
+                "rating" : "1.5"
+            },
+            {
+                "user" : "Nirupama",
+                "review" : "hbghjfr ghrguih gtrhguitrh rhguierh grhgreuig jtrjhiotr hrjyhior hjrhir hhjyior hjyrhir hrjyhiorh hioprtjhrmj",
+                "rating": "1"
+            },
+            {
+                "user" : "Vanilla",
+                "review" : "thgergn hguitr guhtrjgui uwytwh uhwrqgh ggfrw wefrweyifb hweufrhwe uifhweufhwe jweugf huwehfw hweufhwe hweufhw hjwehfrwe jweiofjwe jiowejfow jweifjwe jfiwefr weifwe",
+                "rating" : "2"
+            }
+        ]         
+        
+    },
+    "Sandwich Makers" : {
+        "Images" : [
+            {
+               "Image" : "../IMAGES/Sandwich Makers/Sandwich1.jpg" 
+            },
+            {
+               "Image" : "../IMAGES/Sandwich Makers/Sandwich2.jpg" 
+            },
+            {
+                "Image" : "../IMAGES/Sandwich Makers/Sandwich3.jpg" 
+            }
+        ],
+        "manufacturer" : {
+            "manuName" : "Keerthi Reddy",
+            "sellerID" : 3697,
+            "sellerContact" : 9642583945                
+        },        
+        "reviews" : [
+            {
+                "user" : "Keerthi",
+                "review" : "Good I tried it !!! hrthtrhrthrthrt hy5hyio5hie hohioghriog hgergg nhggggrtlkbnrtbnrtnhyioyi5yhi54yihngitnhiyiotyiotnhiortnhirtininhiernhiehiehehtgb egrgher hgtgrtgrtgrt hrrger fgrgrg vgrr hth bgfgf vdvd",                
+                "rating" : "4"
+            },
+            {
+                "user" : "Arun",
+                "review" : "Works Well yhjjjjjrwrthw56jy7je54yeyhdtfhfgjfyjfed uergergjgjknvk  hrtnjkhjrtnnh rtnhrtjhnrtjhb tjhtgrjrtfjrryjtyjtyjytj htjhrtjrt ththtgrhrt erhger kowkw wad ppp[p adadaxd lplpl[[ grgrgrg",
+                "rating" : "3"
+            },
+            {
+                "review" : "Enchances the pulpy !!! wsr3fatw3tgdrgrfghtfvhcfjnhyhjnfsh bhbgiergbiergbjgbj rgherherh hehehrth rhtht hrhtht grgrhrfhrdg grdfgrg oloikl xAZxaxa  tgyhrtyhrtyh jkjk, sdsdc edfgg yyy",
+                "user" : "Akash",
+                "rating" : "4.5"
+            },
+            {
+                "user" : "Arun",
+                "review" : "Works Well yhjjjjjrwrthw56jy7je54yeyhdtfhfgjfyjfed uergergjgjknvk  hrtnjkhjrtnnh rtnhrtjhnrtjhb tjhtgrjrtfjrryjtyjtyjytj htjhrtjrt ththtgrhrt erhger kowkw wad ppp[p adadaxd lplpl[[ grgrgrg",
+                "rating" : "3"
+            },
+            {
+                "user" : "Arun",
+                "review" : "Works Well yhjjjjjrwrthw56jy7je54yeyhdtfhfgjfyjfed uergergjgjknvk  hrtnjkhjrtnnh rtnhrtjhnrtjhb tjhtgrjrtfjrryjtyjtyjytj htjhrtjrt ththtgrhrt erhger kowkw wad ppp[p adadaxd lplpl[[ grgrgrg",
+                "rating" : "3"
+            }
+        ]
+        
+    },
+    "VCR" : { 
+       
+        "Images" : [
+            {
+               "Image" : "../IMAGES/VCR/VCD1.jpg" 
+            },
+            {
+              "Image" : "../IMAGES/VCR/VCD2.jpg" 
+            },
+            {
+              "Image" : "../IMAGES/VCR/VCD3.jpg"  
+            }
+        ],   
+     
+        "manufacturer" : {
+            "manuName" : "Rehum Kosla",
+            "sellerID" : 1009,
+            "sellerContact" : 9642128963                
+        },      
+        
+        "reviews" : [
+            {                
+              "user" : "Girish",
+              "review" : "Good I tried it !!! ktnjhklh hjgthkigftrnmh hftrjhnm jopjhpoj gjnhyopmko ththftr htghftrhftrk htfrfjhtyjftr hftrjt hftrhjrtfhjtrf hgfthtgfrhrtf hgfthjftr",                
+              "rating" : "4"
+            },
+            {
+                "user" : "Swetha",
+                "review" : "grr trhntr htrhtr uhtrtr htrhtrh trhtrh htrhtrhtr htwr34295 htrwoitw  qerqa otikropgteri wwrftwerfwe werwebfrw wrweur werfwerf wegtuier whrweurhf qwehqwuierh wefwef wehtweiutfr werrgtwerhuig werther erutgheruio",
+                "rating" : "2.5"
+            },
+            {
+                "user" : "Vagdevi",
+                "review" :  "Serves hot hot!!! uhr rgtergt wijqiwerj rheogte grgerge hwuhweui wergtwergftn wetuwetnhf wehtgweo erhgeru gwerhjgioer weiqrjqwiorj werhgfterg weitjhweio weiojrwioe gergter tgewrhjgtoer gtergter ergtjwioe gergterio gterigtjerio erigtjero erjerog",
+                "rating" : "4"
+            },
+            {
+                "user" : "Askui Das",
+                "review" : " hgibghftb hrgr gerygfweruigf gfwergfwegf uiheruighwerguihggewyfre hrguireguirhe hgurehguerh hgerghergh greehgurehg gherguerhg ghreguierhg ghregher grehgureg hgurgh hgrghr ghrghr fbhgtht thtyhjty htrhtr6 tryh5trhy eryheryh o89p89 34r23r op98p89",
+                "rating" : "5"
+            },
+            {
+              "user" : "Rithivika",
+              "review" : "Good to see it !!! ",
+              "rating" : "3.5"
+            },
+            {
+                "user" : "Sathvik",
+                "review" : "jnjk trjgt gtrngj ijwigjw irgueri gerejgerio grehjgiotrj",
+                "rating" : "1.5"
+            },
+            {
+                "user" : "Nirupama",
+                "review" : "hbghjfr ghrguih gtrhguitrh rhguierh grhgreuig jtrjhiotr hrjyhior hjrhir hhjyior hjyrhir hrjyhiorh hioprtjhrmj",
+                "rating": "1"
+            },
+            {
+                "user" : "Vanilla",
+                "review" : "thgergn hguitr guhtrjgui uwytwh uhwrqgh ggfrw wefrweyifb hweufrhwe uifhweufhwe jweugf huwehfw hweufhwe hweufhw hjwehfrwe jweiofjwe jiowejfow jweifjwe jfiwefr weifwe",
+                "rating" : "2"
+            }
+        ]         
+        
+    },
+    "Penguin Toys" : { 
+       
+        "Images" : [
+            {
+               "Image" : "../IMAGES/Toy Store/Penguin Toys/PenguinToy1.jpg" 
+            },
+            {
+              "Image" : "../IMAGES/Toy Store/Penguin Toys/PenguinToy2.jpg"
+            },
+            {
+              "Image" : "../IMAGES/Toy Store/Penguin Toys/PenguinToy3.jpg"
+            }
+        ],   
+     
+        "manufacturer" : {
+            "manuName" : "Shruthi Hamsa",
+            "sellerID" : 7896,
+            "sellerContact" : 9642128963                
+        },      
+        
+        "reviews" : [
+            {                
+              "user" : "Girish",
+              "review" : "Good I tried it !!! ktnjhklh hjgthkigftrnmh hftrjhnm jopjhpoj gjnhyopmko ththftr htghftrhftrk htfrfjhtyjftr hftrjt hftrhjrtfhjtrf hgfthtgfrhrtf hgfthjftr",                
+              "rating" : "4"
+            },
+            {
+                "user" : "Swetha",
+                "review" : "grr trhntr htrhtr uhtrtr htrhtrh trhtrh htrhtrhtr htwr34295 htrwoitw  qerqa otikropgteri wwrftwerfwe werwebfrw wrweur werfwerf wegtuier whrweurhf qwehqwuierh wefwef wehtweiutfr werrgtwerhuig werther erutgheruio",
+                "rating" : "2.5"
+            },
+            {
+                "user" : "Vagdevi",
+                "review" :  "Serves hot hot!!! uhr rgtergt wijqiwerj rheogte grgerge hwuhweui wergtwergftn wetuwetnhf wehtgweo erhgeru gwerhjgioer weiqrjqwiorj werhgfterg weitjhweio weiojrwioe gergter tgewrhjgtoer gtergter ergtjwioe gergterio gterigtjerio erigtjero erjerog",
+                "rating" : "4"
+            },
+            {
+                "user" : "Raml Das",
+                "review" : " hgibghftb hrgr gerygfweruigf gfwergfwegf uiheruighwerguihggewyfre hrguireguirhe hgurehguerh hgerghergh greehgurehg gherguerhg ghreguierhg ghregher grehgureg hgurgh hgrghr ghrghr fbhgtht thtyhjty htrhtr6 tryh5trhy eryheryh o89p89 34r23r op98p89",
+                "rating" : "5"
+            },
+            {
+              "user" : "Rithivika",
+              "review" : "Good to see it !!! ",
+              "rating" : "3.5"
+            },
+            {
+                "user" : "Sathvik",
+                "review" : "jnjk trjgt gtrngj ijwigjw irgueri gerejgerio grehjgiotrj",
+                "rating" : "1.5"
+            },
+            {
+                "user" : "Nirupama",
+                "review" : "hbghjfr ghrguih gtrhguitrh rhguierh grhgreuig jtrjhiotr hrjyhior hjrhir hhjyior hjyrhir hrjyhiorh hioprtjhrmj",
+                "rating": "1"
+            },
+            {
+                "user" : "Vanilla",
+                "review" : "thgergn hguitr guhtrjgui uwytwh uhwrqgh ggfrw wefrweyifb hweufrhwe uifhweufhwe jweugf huwehfw hweufhwe hweufhw hjwehfrwe jweiofjwe jiowejfow jweifjwe jfiwefr weifwe",
+                "rating" : "2"
+            }
+        ]         
+        
+    },
+     "Racing Cars" : { 
+       
+        "Images" : [
+            {
+               "Image" : "../IMAGES/Toy Store/RacingCars/toyCar1.png" 
+            },
+            {
+              "Image" : "../IMAGES/Toy Store/RacingCars/toyCar2.jpg"
+            },
+            {
+              "Image" : "../IMAGES/Toy Store/RacingCars/toyCar3.jpg"
+            }
+        ],   
+     
+        "manufacturer" : {
+            "manuName" : "Shruthi Hamsa",
+            "sellerID" : 7896,
+            "sellerContact" : 9642128963                
+        },      
+        
+        "reviews" : [
+            {                
+              "user" : "Girish",
+              "review" : "Good I tried it !!! ktnjhklh hjgthkigftrnmh hftrjhnm jopjhpoj gjnhyopmko ththftr htghftrhftrk htfrfjhtyjftr hftrjt hftrhjrtfhjtrf hgfthtgfrhrtf hgfthjftr",                
+              "rating" : "4"
+            },
+            {
+                "user" : "Swetha",
+                "review" : "grr trhntr htrhtr uhtrtr htrhtrh trhtrh htrhtrhtr htwr34295 htrwoitw  qerqa otikropgteri wwrftwerfwe werwebfrw wrweur werfwerf wegtuier whrweurhf qwehqwuierh wefwef wehtweiutfr werrgtwerhuig werther erutgheruio",
+                "rating" : "2.5"
+            },
+            {
+                "user" : "Vagdevi",
+                "review" :  "Serves hot hot!!! uhr rgtergt wijqiwerj rheogte grgerge hwuhweui wergtwergftn wetuwetnhf wehtgweo erhgeru gwerhjgioer weiqrjqwiorj werhgfterg weitjhweio weiojrwioe gergter tgewrhjgtoer gtergter ergtjwioe gergterio gterigtjerio erigtjero erjerog",
+                "rating" : "4"
+            },
+            {
+                "user" : "Rupam Das",
+                "review" : " hgibghftb hrgr gerygfweruigf gfwergfwegf uiheruighwerguihggewyfre hrguireguirhe hgurehguerh hgerghergh greehgurehg gherguerhg ghreguierhg ghregher grehgureg hgurgh hgrghr ghrghr fbhgtht thtyhjty htrhtr6 tryh5trhy eryheryh o89p89 34r23r op98p89",
+                "rating" : "5"
+            },
+            {
+              "user" : "Rithivika",
+              "review" : "Good to see it !!! ",
+              "rating" : "3.5"
+            },
+            {
+                "user" : "Sathvik",
+                "review" : "jnjk trjgt gtrngj ijwigjw irgueri gerejgerio grehjgiotrj",
+                "rating" : "1.5"
+            },
+            {
+                "user" : "Nirupama",
+                "review" : "hbghjfr ghrguih gtrhguitrh rhguierh grhgreuig jtrjhiotr hrjyhior hjrhir hhjyior hjyrhir hrjyhiorh hioprtjhrmj",
+                "rating": "1"
+            },
+            {
+                "user" : "Vanilla",
+                "review" : "thgergn hguitr guhtrjgui uwytwh uhwrqgh ggfrw wefrweyifb hweufrhwe uifhweufhwe jweugf huwehfw hweufhwe hweufhw hjwehfrwe jweiofjwe jiowejfow jweifjwe jfiwefr weifwe",
+                "rating" : "2"
+            }
+        ]         
+        
+    },
+    "Chairs" : { 
+       
+        "Images" : [
+            {
+               "Image" : "../IMAGES/Teak Products/Chairs/teakChair1.jpg" 
+            },
+            {
+              "Image" : "../IMAGES/Teak Products/Chairs/teakChair2.jpg" 
+            },
+            {
+              "Image" : "../IMAGES/Teak Products/Chairs/teakChair3.jpg" 
+            }
+        ],   
+     
+        "manufacturer" : {
+            "manuName" : "Shruthi Hamsa",
+            "sellerID" : 7896,
+            "sellerContact" : 9642128963                
+        },      
+        
+        "reviews" : [
+            {                
+              "user" : "Girish",
+              "review" : "Good I tried it !!! ktnjhklh hjgthkigftrnmh hftrjhnm jopjhpoj gjnhyopmko ththftr htghftrhftrk htfrfjhtyjftr hftrjt hftrhjrtfhjtrf hgfthtgfrhrtf hgfthjftr",                
+              "rating" : "4"
+            },
+            {
+                "user" : "Swetha",
+                "review" : "grr trhntr htrhtr uhtrtr htrhtrh trhtrh htrhtrhtr htwr34295 htrwoitw  qerqa otikropgteri wwrftwerfwe werwebfrw wrweur werfwerf wegtuier whrweurhf qwehqwuierh wefwef wehtweiutfr werrgtwerhuig werther erutgheruio",
+                "rating" : "2.5"
+            },
+            {
+                "user" : "Vagdevi",
+                "review" :  "Serves hot hot!!! uhr rgtergt wijqiwerj rheogte grgerge hwuhweui wergtwergftn wetuwetnhf wehtgweo erhgeru gwerhjgioer weiqrjqwiorj werhgfterg weitjhweio weiojrwioe gergter tgewrhjgtoer gtergter ergtjwioe gergterio gterigtjerio erigtjero erjerog",
+                "rating" : "4"
+            },
+            {
+                "user" : "Ritin Das",
+                "review" : " hgibghftb hrgr gerygfweruigf gfwergfwegf uiheruighwerguihggewyfre hrguireguirhe hgurehguerh hgerghergh greehgurehg gherguerhg ghreguierhg ghregher grehgureg hgurgh hgrghr ghrghr fbhgtht thtyhjty htrhtr6 tryh5trhy eryheryh o89p89 34r23r op98p89",
+                "rating" : "5"
+            },
+            {
+              "user" : "Rithivika",
+              "review" : "Good to see it !!! ",
+              "rating" : "3.5"
+            },
+            {
+                "user" : "Sathvik",
+                "review" : "jnjk trjgt gtrngj ijwigjw irgueri gerejgerio grehjgiotrj",
+                "rating" : "1.5"
+            },
+            {
+                "user" : "Nirupama",
+                "review" : "hbghjfr ghrguih gtrhguitrh rhguierh grhgreuig jtrjhiotr hrjyhior hjrhir hhjyior hjyrhir hrjyhiorh hioprtjhrmj",
+                "rating": "1"
+            },
+            {
+                "user" : "Vanilla",
+                "review" : "thgergn hguitr guhtrjgui uwytwh uhwrqgh ggfrw wefrweyifb hweufrhwe uifhweufhwe jweugf huwehfw hweufhwe hweufhw hjwehfrwe jweiofjwe jiowejfow jweifjwe jfiwefr weifwe",
+                "rating" : "2"
+            }
+        ]         
+        
+    },
+    "Tables" : { 
+       
+        "Images" : [
+            {
+               "Image" : "../IMAGES/Teak Products/Tables/teakTable1.jpg" 
+            },
+            {
+              "Image" : "../IMAGES/Teak Products/Tables/teakTable2.jpg" 
+            },
+            {
+              "Image" : "../IMAGES/Teak Products/Tables/teakTable3.jpg" 
+            }
+        ],   
+     
+        "manufacturer" : {
+            "manuName" : "Shruthi Hamsa",
+            "sellerID" : 7896,
+            "sellerContact" : 9642128963                
+        },      
+        
+        "reviews" : [
+            {                
+              "user" : "Girish",
+              "review" : "Good I tried it !!! ktnjhklh hjgthkigftrnmh hftrjhnm jopjhpoj gjnhyopmko ththftr htghftrhftrk htfrfjhtyjftr hftrjt hftrhjrtfhjtrf hgfthtgfrhrtf hgfthjftr",                
+              "rating" : "4"
+            },
+            {
+                "user" : "Swetha",
+                "review" : "grr trhntr htrhtr uhtrtr htrhtrh trhtrh htrhtrhtr htwr34295 htrwoitw  qerqa otikropgteri wwrftwerfwe werwebfrw wrweur werfwerf wegtuier whrweurhf qwehqwuierh wefwef wehtweiutfr werrgtwerhuig werther erutgheruio",
+                "rating" : "2.5"
+            },
+            {
+                "user" : "Vagdevi",
+                "review" :  "Serves hot hot!!! uhr rgtergt wijqiwerj rheogte grgerge hwuhweui wergtwergftn wetuwetnhf wehtgweo erhgeru gwerhjgioer weiqrjqwiorj werhgfterg weitjhweio weiojrwioe gergter tgewrhjgtoer gtergter ergtjwioe gergterio gterigtjerio erigtjero erjerog",
+                "rating" : "4"
+            },
+            {
+                "user" : "Ritesh Das",
+                "review" : " hgibghftb hrgr gerygfweruigf gfwergfwegf uiheruighwerguihggewyfre hrguireguirhe hgurehguerh hgerghergh greehgurehg gherguerhg ghreguierhg ghregher grehgureg hgurgh hgrghr ghrghr fbhgtht thtyhjty htrhtr6 tryh5trhy eryheryh o89p89 34r23r op98p89",
+                "rating" : "5"
+            },
+            {
+              "user" : "Rithivika",
+              "review" : "Good to see it !!! ",
+              "rating" : "3.5"
+            },
+            {
+                "user" : "Sathvik",
+                "review" : "jnjk trjgt gtrngj ijwigjw irgueri gerejgerio grehjgiotrj",
+                "rating" : "1.5"
+            },
+            {
+                "user" : "Nirupama",
+                "review" : "hbghjfr ghrguih gtrhguitrh rhguierh grhgreuig jtrjhiotr hrjyhior hjrhir hhjyior hjyrhir hrjyhiorh hioprtjhrmj",
+                "rating": "1"
+            },
+            {
+                "user" : "Vanilla",
+                "review" : "thgergn hguitr guhtrjgui uwytwh uhwrqgh ggfrw wefrweyifb hweufrhwe uifhweufhwe jweugf huwehfw hweufhwe hweufhw hjwehfrwe jweiofjwe jiowejfow jweifjwe jfiwefr weifwe",
+                "rating" : "2"
+            }
+        ]         
+        
+    } ,
+    "Cushines" : { 
+       
+        "Images" : [
+            {
+               "Image" : "../IMAGES/Furniture/Cuishine Sofas/Furniture1.jpg" 
+            },
+            {
+              "Image" : "../IMAGES/Furniture/Cuishine Sofas/Furniture2.jpg" 
+            },
+            {
+              "Image" : "../IMAGES/Furniture/Cuishine Sofas/Furniture3.jpg" 
+            }
+        ],   
+     
+        "manufacturer" : {
+            "manuName" : "Shruthi Hamsa",
+            "sellerID" : 7896,
+            "sellerContact" : 9642128963                
+        },      
+        
+        "reviews" : [
+            {                
+              "user" : "Girish",
+              "review" : "Good I tried it !!! ktnjhklh hjgthkigftrnmh hftrjhnm jopjhpoj gjnhyopmko ththftr htghftrhftrk htfrfjhtyjftr hftrjt hftrhjrtfhjtrf hgfthtgfrhrtf hgfthjftr",                
+              "rating" : "4"
+            },
+            {
+                "user" : "Swetha",
+                "review" : "grr trhntr htrhtr uhtrtr htrhtrh trhtrh htrhtrhtr htwr34295 htrwoitw  qerqa otikropgteri wwrftwerfwe werwebfrw wrweur werfwerf wegtuier whrweurhf qwehqwuierh wefwef wehtweiutfr werrgtwerhuig werther erutgheruio",
+                "rating" : "2.5"
+            },
+            {
+                "user" : "Vagdevi",
+                "review" :  "Serves hot hot!!! uhr rgtergt wijqiwerj rheogte grgerge hwuhweui wergtwergftn wetuwetnhf wehtgweo erhgeru gwerhjgioer weiqrjqwiorj werhgfterg weitjhweio weiojrwioe gergter tgewrhjgtoer gtergter ergtjwioe gergterio gterigtjerio erigtjero erjerog",
+                "rating" : "4"
+            },
+            {
+                "user" : "Ritesh Das",
+                "review" : " hgibghftb hrgr gerygfweruigf gfwergfwegf uiheruighwerguihggewyfre hrguireguirhe hgurehguerh hgerghergh greehgurehg gherguerhg ghreguierhg ghregher grehgureg hgurgh hgrghr ghrghr fbhgtht thtyhjty htrhtr6 tryh5trhy eryheryh o89p89 34r23r op98p89",
+                "rating" : "5"
+            },
+            {
+              "user" : "Rithivika",
+              "review" : "Good to see it !!! ",
+              "rating" : "3.5"
+            },
+            {
+                "user" : "Sathvik",
+                "review" : "jnjk trjgt gtrngj ijwigjw irgueri gerejgerio grehjgiotrj",
+                "rating" : "1.5"
+            },
+            {
+                "user" : "Nirupama",
+                "review" : "hbghjfr ghrguih gtrhguitrh rhguierh grhgreuig jtrjhiotr hrjyhior hjrhir hhjyior hjyrhir hrjyhiorh hioprtjhrmj",
+                "rating": "1"
+            },
+            {
+                "user" : "Vanilla",
+                "review" : "thgergn hguitr guhtrjgui uwytwh uhwrqgh ggfrw wefrweyifb hweufrhwe uifhweufhwe jweugf huwehfw hweufhwe hweufhw hjwehfrwe jweiofjwe jiowejfow jweifjwe jfiwefr weifwe",
+                "rating" : "2"
+            }
+        ]         
+        
+    },
+    "Anklets" : { 
+       
+        "Images" : [
+            {
+               "Image" : "../IMAGES/Jewellery/Anklets/Jewellery1.jpg" 
+            },
+            {
+              "Image" : "../IMAGES/Jewellery/Anklets/Jewellery2.jpg" 
+            },
+            {
+              "Image" : "../IMAGES/Jewellery/Anklets/Jewellery3.jpg" 
+            }
+        ],   
+     
+        "manufacturer" : {
+            "manuName" : "Shruthi Hamsa",
+            "sellerID" : 7896,
+            "sellerContact" : 9642128963                
+        },      
+        
+        "reviews" : [
+            {                
+              "user" : "Girish",
+              "review" : "Good I tried it !!! ktnjhklh hjgthkigftrnmh hftrjhnm jopjhpoj gjnhyopmko ththftr htghftrhftrk htfrfjhtyjftr hftrjt hftrhjrtfhjtrf hgfthtgfrhrtf hgfthjftr",                
+              "rating" : "4"
+            },
+            {
+                "user" : "Swetha",
+                "review" : "grr trhntr htrhtr uhtrtr htrhtrh trhtrh htrhtrhtr htwr34295 htrwoitw  qerqa otikropgteri wwrftwerfwe werwebfrw wrweur werfwerf wegtuier whrweurhf qwehqwuierh wefwef wehtweiutfr werrgtwerhuig werther erutgheruio",
+                "rating" : "2.5"
+            },
+            {
+                "user" : "Vagdevi",
+                "review" :  "Serves hot hot!!! uhr rgtergt wijqiwerj rheogte grgerge hwuhweui wergtwergftn wetuwetnhf wehtgweo erhgeru gwerhjgioer weiqrjqwiorj werhgfterg weitjhweio weiojrwioe gergter tgewrhjgtoer gtergter ergtjwioe gergterio gterigtjerio erigtjero erjerog",
+                "rating" : "4"
+            },
+            {
+                "user" : "Ritesh Das",
+                "review" : " hgibghftb hrgr gerygfweruigf gfwergfwegf uiheruighwerguihggewyfre hrguireguirhe hgurehguerh hgerghergh greehgurehg gherguerhg ghreguierhg ghregher grehgureg hgurgh hgrghr ghrghr fbhgtht thtyhjty htrhtr6 tryh5trhy eryheryh o89p89 34r23r op98p89",
+                "rating" : "5"
+            },
+            {
+              "user" : "Rithivika",
+              "review" : "Good to see it !!! ",
+              "rating" : "3.5"
+            },
+            {
+                "user" : "Sathvik",
+                "review" : "jnjk trjgt gtrngj ijwigjw irgueri gerejgerio grehjgiotrj",
+                "rating" : "1.5"
+            },
+            {
+                "user" : "Nirupama",
+                "review" : "hbghjfr ghrguih gtrhguitrh rhguierh grhgreuig jtrjhiotr hrjyhior hjrhir hhjyior hjyrhir hrjyhiorh hioprtjhrmj",
+                "rating": "1"
+            },
+            {
+                "user" : "Vanilla",
+                "review" : "thgergn hguitr guhtrjgui uwytwh uhwrqgh ggfrw wefrweyifb hweufrhwe uifhweufhwe jweugf huwehfw hweufhwe hweufhw hjwehfrwe jweiofjwe jiowejfow jweifjwe jfiwefr weifwe",
+                "rating" : "2"
+            }
+        ]         
+        
+    },
+    "Chains" : { 
+       
+        "Images" : [
+            {
+               "Image" : "../IMAGES/Jewellery/Chains/Jewellery1.jpg" 
+            },
+            {
+              "Image" :  "../IMAGES/Jewellery/Chains/Jewellery2.jpg" 
+            },
+            {
+              "Image" :  "../IMAGES/Jewellery/Chains/Jewellery3.jpg" 
+            }
+        ],   
+     
+        "manufacturer" : {
+            "manuName" : "Shruthi Hamsa",
+            "sellerID" : 7896,
+            "sellerContact" : 9642128963                
+        },      
+        
+        "reviews" : [
+            {                
+              "user" : "Girish",
+              "review" : "Good I tried it !!! ktnjhklh hjgthkigftrnmh hftrjhnm jopjhpoj gjnhyopmko ththftr htghftrhftrk htfrfjhtyjftr hftrjt hftrhjrtfhjtrf hgfthtgfrhrtf hgfthjftr",                
+              "rating" : "4"
+            },
+            {
+                "user" : "Swetha",
+                "review" : "grr trhntr htrhtr uhtrtr htrhtrh trhtrh htrhtrhtr htwr34295 htrwoitw  qerqa otikropgteri wwrftwerfwe werwebfrw wrweur werfwerf wegtuier whrweurhf qwehqwuierh wefwef wehtweiutfr werrgtwerhuig werther erutgheruio",
+                "rating" : "2.5"
+            },
+            {
+                "user" : "Vagdevi",
+                "review" :  "Serves hot hot!!! uhr rgtergt wijqiwerj rheogte grgerge hwuhweui wergtwergftn wetuwetnhf wehtgweo erhgeru gwerhjgioer weiqrjqwiorj werhgfterg weitjhweio weiojrwioe gergter tgewrhjgtoer gtergter ergtjwioe gergterio gterigtjerio erigtjero erjerog",
+                "rating" : "4"
+            },
+            {
+                "user" : "Ritesh Das",
+                "review" : " hgibghftb hrgr gerygfweruigf gfwergfwegf uiheruighwerguihggewyfre hrguireguirhe hgurehguerh hgerghergh greehgurehg gherguerhg ghreguierhg ghregher grehgureg hgurgh hgrghr ghrghr fbhgtht thtyhjty htrhtr6 tryh5trhy eryheryh o89p89 34r23r op98p89",
+                "rating" : "5"
+            },
+            {
+              "user" : "Rithivika",
+              "review" : "Good to see it !!! ",
+              "rating" : "3.5"
+            },
+            {
+                "user" : "Sathvik",
+                "review" : "jnjk trjgt gtrngj ijwigjw irgueri gerejgerio grehjgiotrj",
+                "rating" : "1.5"
+            },
+            {
+                "user" : "Nirupama",
+                "review" : "hbghjfr ghrguih gtrhguitrh rhguierh grhgreuig jtrjhiotr hrjyhior hjrhir hhjyior hjyrhir hrjyhiorh hioprtjhrmj",
+                "rating": "1"
+            },
+            {
+                "user" : "Vanilla",
+                "review" : "thgergn hguitr guhtrjgui uwytwh uhwrqgh ggfrw wefrweyifb hweufrhwe uifhweufhwe jweugf huwehfw hweufhwe hweufhw hjwehfrwe jweiofjwe jiowejfow jweifjwe jfiwefr weifwe",
+                "rating" : "2"
+            }
+        ]         
+        
+    } ,
+     "Ear Rings" : { 
+       
+        "Images" : [
+            {
+               "Image" : "../IMAGES/Jewellery/EarRings/Jewellery1.jpg" 
+            },
+            {
+              "Image" :   "../IMAGES/Jewellery/EarRings/Jewellery2.jpg" 
+            },
+            {
+              "Image" :   "../IMAGES/Jewellery/EarRings/Jewellery3.jpg" 
+            }
+        ],   
+     
+        "manufacturer" : {
+            "manuName" : "Shruthi Hamsa",
+            "sellerID" : 7896,
+            "sellerContact" : 9642128963                
+        },      
+        
+        "reviews" : [
+            {                
+              "user" : "Girish",
+              "review" : "Good I tried it !!! ktnjhklh hjgthkigftrnmh hftrjhnm jopjhpoj gjnhyopmko ththftr htghftrhftrk htfrfjhtyjftr hftrjt hftrhjrtfhjtrf hgfthtgfrhrtf hgfthjftr",                
+              "rating" : "4"
+            },
+            {
+                "user" : "Swetha",
+                "review" : "grr trhntr htrhtr uhtrtr htrhtrh trhtrh htrhtrhtr htwr34295 htrwoitw  qerqa otikropgteri wwrftwerfwe werwebfrw wrweur werfwerf wegtuier whrweurhf qwehqwuierh wefwef wehtweiutfr werrgtwerhuig werther erutgheruio",
+                "rating" : "2.5"
+            },
+            {
+                "user" : "Vagdevi",
+                "review" :  "Serves hot hot!!! uhr rgtergt wijqiwerj rheogte grgerge hwuhweui wergtwergftn wetuwetnhf wehtgweo erhgeru gwerhjgioer weiqrjqwiorj werhgfterg weitjhweio weiojrwioe gergter tgewrhjgtoer gtergter ergtjwioe gergterio gterigtjerio erigtjero erjerog",
+                "rating" : "4"
+            },
+            {
+                "user" : "Ritesh Das",
+                "review" : " hgibghftb hrgr gerygfweruigf gfwergfwegf uiheruighwerguihggewyfre hrguireguirhe hgurehguerh hgerghergh greehgurehg gherguerhg ghreguierhg ghregher grehgureg hgurgh hgrghr ghrghr fbhgtht thtyhjty htrhtr6 tryh5trhy eryheryh o89p89 34r23r op98p89",
+                "rating" : "5"
+            },
+            {
+              "user" : "Rithivika",
+              "review" : "Good to see it !!! ",
+              "rating" : "3.5"
+            },
+            {
+                "user" : "Sathvik",
+                "review" : "jnjk trjgt gtrngj ijwigjw irgueri gerejgerio grehjgiotrj",
+                "rating" : "1.5"
+            },
+            {
+                "user" : "Nirupama",
+                "review" : "hbghjfr ghrguih gtrhguitrh rhguierh grhgreuig jtrjhiotr hrjyhior hjrhir hhjyior hjyrhir hrjyhiorh hioprtjhrmj",
+                "rating": "1"
+            },
+            {
+                "user" : "Vanilla",
+                "review" : "thgergn hguitr guhtrjgui uwytwh uhwrqgh ggfrw wefrweyifb hweufrhwe uifhweufhwe jweugf huwehfw hweufhwe hweufhw hjwehfrwe jweiofjwe jiowejfow jweifjwe jfiwefr weifwe",
+                "rating" : "2"
+            }
+        ]         
+        
+    },
+    "Necklaces" : { 
+       
+        "Images" : [
+            {
+               "Image" : "../IMAGES/Jewellery/Necklace/Jewellery1.png" 
+            },
+            {
+              "Image" :  "../IMAGES/Jewellery/Necklace/Jewellery2.jpg" 
+            },
+            {
+              "Image" :   "../IMAGES/Jewellery/Necklace/Jewellery3.jpg"  
+            }
+        ],   
+     
+        "manufacturer" : {
+            "manuName" : "Shruthi Hamsa",
+            "sellerID" : 7896,
+            "sellerContact" : 9642128963                
+        },      
+        
+        "reviews" : [
+            {                
+              "user" : "Girish",
+              "review" : "Good I tried it !!! ktnjhklh hjgthkigftrnmh hftrjhnm jopjhpoj gjnhyopmko ththftr htghftrhftrk htfrfjhtyjftr hftrjt hftrhjrtfhjtrf hgfthtgfrhrtf hgfthjftr",                
+              "rating" : "4"
+            },
+            {
+                "user" : "Swetha",
+                "review" : "grr trhntr htrhtr uhtrtr htrhtrh trhtrh htrhtrhtr htwr34295 htrwoitw  qerqa otikropgteri wwrftwerfwe werwebfrw wrweur werfwerf wegtuier whrweurhf qwehqwuierh wefwef wehtweiutfr werrgtwerhuig werther erutgheruio",
+                "rating" : "2.5"
+            },
+            {
+                "user" : "Vagdevi",
+                "review" :  "Serves hot hot!!! uhr rgtergt wijqiwerj rheogte grgerge hwuhweui wergtwergftn wetuwetnhf wehtgweo erhgeru gwerhjgioer weiqrjqwiorj werhgfterg weitjhweio weiojrwioe gergter tgewrhjgtoer gtergter ergtjwioe gergterio gterigtjerio erigtjero erjerog",
+                "rating" : "4"
+            },
+            {
+                "user" : "Ritesh Das",
+                "review" : " hgibghftb hrgr gerygfweruigf gfwergfwegf uiheruighwerguihggewyfre hrguireguirhe hgurehguerh hgerghergh greehgurehg gherguerhg ghreguierhg ghregher grehgureg hgurgh hgrghr ghrghr fbhgtht thtyhjty htrhtr6 tryh5trhy eryheryh o89p89 34r23r op98p89",
+                "rating" : "5"
+            },
+            {
+              "user" : "Rithivika",
+              "review" : "Good to see it !!! ",
+              "rating" : "3.5"
+            },
+            {
+                "user" : "Sathvik",
+                "review" : "jnjk trjgt gtrngj ijwigjw irgueri gerejgerio grehjgiotrj",
+                "rating" : "1.5"
+            },
+            {
+                "user" : "Nirupama",
+                "review" : "hbghjfr ghrguih gtrhguitrh rhguierh grhgreuig jtrjhiotr hrjyhior hjrhir hhjyior hjyrhir hrjyhiorh hioprtjhrmj",
+                "rating": "1"
+            },
+            {
+                "user" : "Vanilla",
+                "review" : "thgergn hguitr guhtrjgui uwytwh uhwrqgh ggfrw wefrweyifb hweufrhwe uifhweufhwe jweugf huwehfw hweufhwe hweufhw hjwehfrwe jweiofjwe jiowejfow jweifjwe jfiwefr weifwe",
+                "rating" : "2"
+            }
+        ]         
+        
+    },
+    "Happy" : { 
+       
+        "Images" : [
+            {
+               "Image" : "../IMAGES/Paintings/Happy/Painting1.jpg" 
+            },
+            {
+              "Image" :  "../IMAGES/Paintings/Happy/Painting2.jpg" 
+            },
+            {
+              "Image" :   "../IMAGES/Paintings/Happy/Painting3.jpg"   
+            }
+        ],   
+     
+        "manufacturer" : {
+            "manuName" : "Shruthi Hamsa",
+            "sellerID" : 7896,
+            "sellerContact" : 9642128963                
+        },      
+        
+        "reviews" : [
+            {                
+              "user" : "Girish",
+              "review" : "Good I tried it !!! ktnjhklh hjgthkigftrnmh hftrjhnm jopjhpoj gjnhyopmko ththftr htghftrhftrk htfrfjhtyjftr hftrjt hftrhjrtfhjtrf hgfthtgfrhrtf hgfthjftr",                
+              "rating" : "4"
+            },
+            {
+                "user" : "Swetha",
+                "review" : "grr trhntr htrhtr uhtrtr htrhtrh trhtrh htrhtrhtr htwr34295 htrwoitw  qerqa otikropgteri wwrftwerfwe werwebfrw wrweur werfwerf wegtuier whrweurhf qwehqwuierh wefwef wehtweiutfr werrgtwerhuig werther erutgheruio",
+                "rating" : "2.5"
+            },
+            {
+                "user" : "Vagdevi",
+                "review" :  "Serves hot hot!!! uhr rgtergt wijqiwerj rheogte grgerge hwuhweui wergtwergftn wetuwetnhf wehtgweo erhgeru gwerhjgioer weiqrjqwiorj werhgfterg weitjhweio weiojrwioe gergter tgewrhjgtoer gtergter ergtjwioe gergterio gterigtjerio erigtjero erjerog",
+                "rating" : "4"
+            },
+            {
+                "user" : "Ritesh Das",
+                "review" : " hgibghftb hrgr gerygfweruigf gfwergfwegf uiheruighwerguihggewyfre hrguireguirhe hgurehguerh hgerghergh greehgurehg gherguerhg ghreguierhg ghregher grehgureg hgurgh hgrghr ghrghr fbhgtht thtyhjty htrhtr6 tryh5trhy eryheryh o89p89 34r23r op98p89",
+                "rating" : "5"
+            },
+            {
+              "user" : "Rithivika",
+              "review" : "Good to see it !!! ",
+              "rating" : "3.5"
+            },
+            {
+                "user" : "Sathvik",
+                "review" : "jnjk trjgt gtrngj ijwigjw irgueri gerejgerio grehjgiotrj",
+                "rating" : "1.5"
+            },
+            {
+                "user" : "Nirupama",
+                "review" : "hbghjfr ghrguih gtrhguitrh rhguierh grhgreuig jtrjhiotr hrjyhior hjrhir hhjyior hjyrhir hrjyhiorh hioprtjhrmj",
+                "rating": "1"
+            },
+            {
+                "user" : "Vanilla",
+                "review" : "thgergn hguitr guhtrjgui uwytwh uhwrqgh ggfrw wefrweyifb hweufrhwe uifhweufhwe jweugf huwehfw hweufhwe hweufhw hjwehfrwe jweiofjwe jiowejfow jweifjwe jfiwefr weifwe",
+                "rating" : "2"
+            }
+        ]         
+        
+    },
+    "Misc" : { 
+       
+        "Images" : [
+            {
+               "Image" : "../IMAGES/Paintings/Misc/Painting1.jpg" 
+            },
+            {
+              "Image" : "../IMAGES/Paintings/Misc/Painting2.jpg"  
+            },
+            {
+              "Image" :   "../IMAGES/Paintings/Misc/Painting3.jpg"    
+            }
+        ],   
+     
+        "manufacturer" : {
+            "manuName" : "Shruthi Hamsa",
+            "sellerID" : 7896,
+            "sellerContact" : 9642128963                
+        },      
+        
+        "reviews" : [
+            {                
+              "user" : "Girish",
+              "review" : "Good I tried it !!! ktnjhklh hjgthkigftrnmh hftrjhnm jopjhpoj gjnhyopmko ththftr htghftrhftrk htfrfjhtyjftr hftrjt hftrhjrtfhjtrf hgfthtgfrhrtf hgfthjftr",                
+              "rating" : "4"
+            },
+            {
+                "user" : "Swetha",
+                "review" : "grr trhntr htrhtr uhtrtr htrhtrh trhtrh htrhtrhtr htwr34295 htrwoitw  qerqa otikropgteri wwrftwerfwe werwebfrw wrweur werfwerf wegtuier whrweurhf qwehqwuierh wefwef wehtweiutfr werrgtwerhuig werther erutgheruio",
+                "rating" : "2.5"
+            },
+            {
+                "user" : "Vagdevi",
+                "review" :  "Serves hot hot!!! uhr rgtergt wijqiwerj rheogte grgerge hwuhweui wergtwergftn wetuwetnhf wehtgweo erhgeru gwerhjgioer weiqrjqwiorj werhgfterg weitjhweio weiojrwioe gergter tgewrhjgtoer gtergter ergtjwioe gergterio gterigtjerio erigtjero erjerog",
+                "rating" : "4"
+            },
+            {
+                "user" : "Ritesh Das",
+                "review" : " hgibghftb hrgr gerygfweruigf gfwergfwegf uiheruighwerguihggewyfre hrguireguirhe hgurehguerh hgerghergh greehgurehg gherguerhg ghreguierhg ghregher grehgureg hgurgh hgrghr ghrghr fbhgtht thtyhjty htrhtr6 tryh5trhy eryheryh o89p89 34r23r op98p89",
+                "rating" : "5"
+            },
+            {
+              "user" : "Rithivika",
+              "review" : "Good to see it !!! ",
+              "rating" : "3.5"
+            },
+            {
+                "user" : "Sathvik",
+                "review" : "jnjk trjgt gtrngj ijwigjw irgueri gerejgerio grehjgiotrj",
+                "rating" : "1.5"
+            },
+            {
+                "user" : "Nirupama",
+                "review" : "hbghjfr ghrguih gtrhguitrh rhguierh grhgreuig jtrjhiotr hrjyhior hjrhir hhjyior hjyrhir hrjyhiorh hioprtjhrmj",
+                "rating": "1"
+            },
+            {
+                "user" : "Vanilla",
+                "review" : "thgergn hguitr guhtrjgui uwytwh uhwrqgh ggfrw wefrweyifb hweufrhwe uifhweufhwe jweugf huwehfw hweufhwe hweufhw hjwehfrwe jweiofjwe jiowejfow jweifjwe jfiwefr weifwe",
+                "rating" : "2"
+            }
+        ]         
+        
+    },
+    "Nature" : { 
+       
+        "Images" : [
+            {
+               "Image" : "../IMAGES/Paintings/Nature/Painting1.jpg"
+            },
+            {
+              "Image" :"../IMAGES/Paintings/Nature/Painting2.jpg" 
+            },
+            {
+              "Image" :  "../IMAGES/Paintings/Nature/Painting3.jpg"    
+            }
+        ],   
+     
+        "manufacturer" : {
+            "manuName" : "Shruthi Hamsa",
+            "sellerID" : 7896,
+            "sellerContact" : 9642128963                
+        },      
+        
+        "reviews" : [
+            {                
+              "user" : "Girish",
+              "review" : "Good I tried it !!! ktnjhklh hjgthkigftrnmh hftrjhnm jopjhpoj gjnhyopmko ththftr htghftrhftrk htfrfjhtyjftr hftrjt hftrhjrtfhjtrf hgfthtgfrhrtf hgfthjftr",                
+              "rating" : "4"
+            },
+            {
+                "user" : "Swetha",
+                "review" : "grr trhntr htrhtr uhtrtr htrhtrh trhtrh htrhtrhtr htwr34295 htrwoitw  qerqa otikropgteri wwrftwerfwe werwebfrw wrweur werfwerf wegtuier whrweurhf qwehqwuierh wefwef wehtweiutfr werrgtwerhuig werther erutgheruio",
+                "rating" : "2.5"
+            },
+            {
+                "user" : "Vagdevi",
+                "review" :  "Serves hot hot!!! uhr rgtergt wijqiwerj rheogte grgerge hwuhweui wergtwergftn wetuwetnhf wehtgweo erhgeru gwerhjgioer weiqrjqwiorj werhgfterg weitjhweio weiojrwioe gergter tgewrhjgtoer gtergter ergtjwioe gergterio gterigtjerio erigtjero erjerog",
+                "rating" : "4"
+            },
+            {
+                "user" : "Ritesh Das",
+                "review" : " hgibghftb hrgr gerygfweruigf gfwergfwegf uiheruighwerguihggewyfre hrguireguirhe hgurehguerh hgerghergh greehgurehg gherguerhg ghreguierhg ghregher grehgureg hgurgh hgrghr ghrghr fbhgtht thtyhjty htrhtr6 tryh5trhy eryheryh o89p89 34r23r op98p89",
+                "rating" : "5"
+            },
+            {
+              "user" : "Rithivika",
+              "review" : "Good to see it !!! ",
+              "rating" : "3.5"
+            },
+            {
+                "user" : "Sathvik",
+                "review" : "jnjk trjgt gtrngj ijwigjw irgueri gerejgerio grehjgiotrj",
+                "rating" : "1.5"
+            },
+            {
+                "user" : "Nirupama",
+                "review" : "hbghjfr ghrguih gtrhguitrh rhguierh grhgreuig jtrjhiotr hrjyhior hjrhir hhjyior hjyrhir hrjyhiorh hioprtjhrmj",
+                "rating": "1"
+            },
+            {
+                "user" : "Vanilla",
+                "review" : "thgergn hguitr guhtrjgui uwytwh uhwrqgh ggfrw wefrweyifb hweufrhwe uifhweufhwe jweugf huwehfw hweufhwe hweufhw hjwehfrwe jweiofjwe jiowejfow jweifjwe jfiwefr weifwe",
+                "rating" : "2"
+            }
+        ]         
+        
+    },
+    "Crockery" : { 
+       
+        "Images" : [
+            {
+               "Image" : "../IMAGES/Crockery/Crockery/Crockery1.jpg"
+            },
+            {
+              "Image" :"../IMAGES/Crockery/Crockery/Crockery2.jpg"
+            },
+            {
+              "Image" :  "../IMAGES/Crockery/Crockery/Crockery3.jpg"   
+            }
+        ],   
+     
+        "manufacturer" : {
+            "manuName" : "Shruthi Hamsa",
+            "sellerID" : 7896,
+            "sellerContact" : 9642128963                
+        },      
+        
+        "reviews" : [
+            {                
+              "user" : "Girish",
+              "review" : "Good I tried it !!! ktnjhklh hjgthkigftrnmh hftrjhnm jopjhpoj gjnhyopmko ththftr htghftrhftrk htfrfjhtyjftr hftrjt hftrhjrtfhjtrf hgfthtgfrhrtf hgfthjftr",                
+              "rating" : "4"
+            },
+            {
+                "user" : "Swetha",
+                "review" : "grr trhntr htrhtr uhtrtr htrhtrh trhtrh htrhtrhtr htwr34295 htrwoitw  qerqa otikropgteri wwrftwerfwe werwebfrw wrweur werfwerf wegtuier whrweurhf qwehqwuierh wefwef wehtweiutfr werrgtwerhuig werther erutgheruio",
+                "rating" : "2.5"
+            },
+            {
+                "user" : "Vagdevi",
+                "review" :  "Serves hot hot!!! uhr rgtergt wijqiwerj rheogte grgerge hwuhweui wergtwergftn wetuwetnhf wehtgweo erhgeru gwerhjgioer weiqrjqwiorj werhgfterg weitjhweio weiojrwioe gergter tgewrhjgtoer gtergter ergtjwioe gergterio gterigtjerio erigtjero erjerog",
+                "rating" : "4"
+            },
+            {
+                "user" : "Ritesh Das",
+                "review" : " hgibghftb hrgr gerygfweruigf gfwergfwegf uiheruighwerguihggewyfre hrguireguirhe hgurehguerh hgerghergh greehgurehg gherguerhg ghreguierhg ghregher grehgureg hgurgh hgrghr ghrghr fbhgtht thtyhjty htrhtr6 tryh5trhy eryheryh o89p89 34r23r op98p89",
+                "rating" : "5"
+            },
+            {
+              "user" : "Rithivika",
+              "review" : "Good to see it !!! ",
+              "rating" : "3.5"
+            },
+            {
+                "user" : "Sathvik",
+                "review" : "jnjk trjgt gtrngj ijwigjw irgueri gerejgerio grehjgiotrj",
+                "rating" : "1.5"
+            },
+            {
+                "user" : "Nirupama",
+                "review" : "hbghjfr ghrguih gtrhguitrh rhguierh grhgreuig jtrjhiotr hrjyhior hjrhir hhjyior hjyrhir hrjyhiorh hioprtjhrmj",
+                "rating": "1"
+            },
+            {
+                "user" : "Vanilla",
+                "review" : "thgergn hguitr guhtrjgui uwytwh uhwrqgh ggfrw wefrweyifb hweufrhwe uifhweufhwe jweugf huwehfw hweufhwe hweufhw hjwehfrwe jweiofjwe jiowejfow jweifjwe jfiwefr weifwe",
+                "rating" : "2"
+            }
+        ]         
+        
+    } ,
+    "Glass Crockery" : { 
+       
+        "Images" : [
+            {
+               "Image" : "../IMAGES/Crockery/Glass Crockery/GlassCrockery1.jpg"
+            },
+            {
+              "Image" :"../IMAGES/Crockery/Glass Crockery/GlassCrockery2.jpg"
+            },
+            {
+              "Image" : "../IMAGES/Crockery/Glass Crockery/GlassCrockery3.jpg"   
+            }
+        ],   
+     
+        "manufacturer" : {
+            "manuName" : "Shruthi Hamsa",
+            "sellerID" : 7896,
+            "sellerContact" : 9642128963                
+        },      
+        
+        "reviews" : [
+            {                
+              "user" : "Girish",
+              "review" : "Good I tried it !!! ktnjhklh hjgthkigftrnmh hftrjhnm jopjhpoj gjnhyopmko ththftr htghftrhftrk htfrfjhtyjftr hftrjt hftrhjrtfhjtrf hgfthtgfrhrtf hgfthjftr",                
+              "rating" : "4"
+            },
+            {
+                "user" : "Swetha",
+                "review" : "grr trhntr htrhtr uhtrtr htrhtrh trhtrh htrhtrhtr htwr34295 htrwoitw  qerqa otikropgteri wwrftwerfwe werwebfrw wrweur werfwerf wegtuier whrweurhf qwehqwuierh wefwef wehtweiutfr werrgtwerhuig werther erutgheruio",
+                "rating" : "2.5"
+            },
+            {
+                "user" : "Vagdevi",
+                "review" :  "Serves hot hot!!! uhr rgtergt wijqiwerj rheogte grgerge hwuhweui wergtwergftn wetuwetnhf wehtgweo erhgeru gwerhjgioer weiqrjqwiorj werhgfterg weitjhweio weiojrwioe gergter tgewrhjgtoer gtergter ergtjwioe gergterio gterigtjerio erigtjero erjerog",
+                "rating" : "4"
+            },
+            {
+                "user" : "Ritesh Das",
+                "review" : " hgibghftb hrgr gerygfweruigf gfwergfwegf uiheruighwerguihggewyfre hrguireguirhe hgurehguerh hgerghergh greehgurehg gherguerhg ghreguierhg ghregher grehgureg hgurgh hgrghr ghrghr fbhgtht thtyhjty htrhtr6 tryh5trhy eryheryh o89p89 34r23r op98p89",
+                "rating" : "5"
+            },
+            {
+              "user" : "Rithivika",
+              "review" : "Good to see it !!! ",
+              "rating" : "3.5"
+            },
+            {
+                "user" : "Sathvik",
+                "review" : "jnjk trjgt gtrngj ijwigjw irgueri gerejgerio grehjgiotrj",
+                "rating" : "1.5"
+            },
+            {
+                "user" : "Nirupama",
+                "review" : "hbghjfr ghrguih gtrhguitrh rhguierh grhgreuig jtrjhiotr hrjyhior hjrhir hhjyior hjyrhir hrjyhiorh hioprtjhrmj",
+                "rating": "1"
+            },
+            {
+                "user" : "Vanilla",
+                "review" : "thgergn hguitr guhtrjgui uwytwh uhwrqgh ggfrw wefrweyifb hweufrhwe uifhweufhwe jweugf huwehfw hweufhwe hweufhw hjwehfrwe jweiofjwe jiowejfow jweifjwe jfiwefr weifwe",
+                "rating" : "2"
+            }
+        ]         
+        
+    }    
+    
+    
+}

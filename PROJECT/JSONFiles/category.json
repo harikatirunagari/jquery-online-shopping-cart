@@ -1,0 +1,11 @@
+{
+    "Electronics" : ["VCR"],
+    "Home Appliances" : ["Juicers","Kettles","Sandwich Makers"],
+    "Toy Store" : ["Penguin Toys", "Racing Cars"],
+    "Teak Products" : ["Chairs","Tables"],
+    "Furniture" : ["Cushines"],
+    "Jewllery" : ["Anklets","Chains","Ear Rings","Necklaces"],
+    "Paintings" : ["Happy","Misc","Nature"],
+    "Crockery" : ["Crockery","Glass Crockery"]
+    
+}
