@@ -1,0 +1,309 @@
+<!DOCTYPE html>
+<!--
+To change this license header, choose License Headers in Project Properties.
+To change this template file, choose Tools | Templates
+and open the template in the editor.
+-->
+<html>
+    <head>
+        <title>Products Info</title>
+        <meta charset="UTF-8">
+        <meta name="viewport" content="width=device-width, initial-scale=1.0">
+        <script src="../JAVA SCRIPT/RedirectingPage.js" type="text/javascript"></script>
+        <script type="text/javascript">
+            redirectHomePage.redirectingHomePage();
+        </script>
+        
+        <link href='https://fonts.googleapis.com/css?family=Faster One' rel='stylesheet'>   
+        <link href="../CSS/homePage.css" rel="stylesheet" type="text/css"/>
+        <link href="../CSS/ProductInfo1.css" rel="stylesheet" type="text/css"/>
+        <script type='text/javascript' src='../jquery-3.2.1.js'></script>       
+        <script src="../jquery.loadTemplate-1.4.4.min.js" type="text/javascript"></script>
+    </head>
+    
+    <body>       
+        <div id="mainContainer">
+            <div id="maskBlock"></div>
+            <div id="title"></div>
+            <div id="pageContainer">
+                
+                <div class="noProductsBlock">
+                    Products not yet added to Cart !!!!
+                    
+                    <span class="link" onclick="goBack()">Click here to add</span>
+                    <img src="../IMAGES/TickMarks/MovingEffect.gif" alt="" class="movingEffectImg"/>
+                </div>
+                
+                <div class="loadingBlock">
+                    <img src="../IMAGES/Loading/Project Loading.gif" alt=""/>
+                </div>
+                
+                <div class="productAddedBlock" id="productAdd">
+                    Product Added Successfully to Cart
+                    <span>
+                        <img src="../IMAGES/TickMarks/tickMark2.gif" alt="" class="addImage"/>
+                    </span>
+                </div>
+                
+                <div class="productAddedBlock" id="productRemove">
+                    Product removed Successfully from Cart
+                    <span>
+                        <img src="../IMAGES/TickMarks/Remove.jpg" class="addImage" alt=""/>
+                    </span>
+                </div>
+                
+                
+                <div class="cart">
+                    <div id="closeTag"><a href="#" onclick="closeDialogBox('.cart')">Close</a></div>
+                    <div id="cartDetails">
+                        <!--<span id="data"></span>-->
+                        
+                    </div>
+                        <div class="borderStyle">
+                            <div id="cartBlock">
+                                <ul>
+                                    <li>
+                                        <span class="priceLabel">Total Price : </span>
+                                        <span id="totalPrice"></span>
+                                    </li>                            
+                                    <li>
+                                        <span class="priceLabel">Total Delivery Charges : </span>
+                                        <span id="totalDeliveryCharges"></span>
+                                    </li>                            
+                                    <li>
+                                        <span class="priceLabel">Total Price + Total Delivery Charges :</span> 
+                                        <span id="overallCharges"></span>
+                                    </li>                            
+                                </ul>
+                                <div class="priceBlock">
+                                    <span id="priceBlock"></span>
+                                </div>
+                            </div>
+                            
+                        </div>
+                   
+                    
+                    
+                </div>
+                <div class="productDetailsDivContent"> <!--All particular categories Block  (pop up) --> 
+                    <div><a href="#" onclick="closeDialogBox('.productDetailsDivContent')">Close</a></div>  <!-- What is this peculiar behavior ???-->
+                    <table class="productImages">
+                        <thead></thead>
+                        <tbody>
+                            <tr>
+                                <td colspan="3"><img src="" id="mainImage"/></td>                               
+                            </tr>
+                            <tr>
+                                <td id="detailedProducts"></td>                             
+                            </tr>
+                        </tbody>
+                        <tfoot></tfoot>                       
+                    </table>
+                   
+                    <table cellspacing="10" cellpadding="10" class="detailsBlock12">
+                        <thead></thead>
+                        <tbody>
+                            <tr>
+                                <td id="showCompleteProducts"><span></span></td>
+                                <td id="manufacturerDetails"></td>
+                            </tr>
+                           
+                        </tbody>
+                        <tfoot></tfoot>
+                    </table>
+                    <div class="subTitle rsub">REVIEWS : -</div>
+                    <div class="reviews">
+                        <ul id="reviewBlock">                       
+                        </ul>
+                    </div>                    
+                </div>
+                <div class="categories">                   
+                    <h5><i>CATEGORIES...</i></h5>
+                    <ul class="categoriesList">                        
+                    </ul>
+                </div>
+                 
+                <div>
+                    <span  class="outsideCart carthover" onclick="showCart()">View Cart Details &#62;&#62;</span>
+                    <span class="outsideCart userH"  >Hello <span   id="userName"></span>!</span>
+                    <span id="logout" onclick="logOut()">Logout</span>
+                </div> 
+                <div class="allProducts">                  
+                                       
+                </div> 
+    
+            <div id="bottomContainer"></div>
+        </div>
+    </div>
+       
+        <script src="../JAVA SCRIPT/homePage.js" type="text/javascript"></script>
+        
+       
+        <script type="text/javascript" id="categoryTemplate">
+            <li data-content="category" onclick="getCategoryProducts(event)"></li>            
+        </script>
+        <script type="text/javascript" id="productTemplate">           
+            <table class="productDetails">
+                <thead></thead>
+                <tbody>
+                    <tr class="ImageContainer">
+                        <td colspan="2"><img data-src="productImg"/></td>
+                    </tr>
+                    <tr>
+                        <td>Product Name :</td>
+                        <td><span data-content="productName"></span></td>                            
+                    </tr>
+                    <tr>
+                        <td>Category :</td>
+                        <td><span data-content="categoryName"></span></td>
+                    </tr>                    
+                    <tr>
+                        <td>Manufacturer :</td>
+                        <td><span data-content="manufacturer"></span></td>
+                    </tr>
+                    <tr>
+                        <td>Price : </td>
+                        <td><span data-content="productPrice"></span></td>
+                    </tr>
+                    <tr>
+                        <td>Description :</td>
+                        <td>
+                            <span data-content="description"></span>                                        
+                        </td>                        
+                    </tr>
+                    <tr>
+                        <td>
+                            <div>
+                                <input type="button" value="AddToCart" class="details" onclick="addToCart(event,func='outCart')" data-id="disableId"/>                                
+                            </div>                                                    
+                        </td>
+                        <td>
+                            <div class="details" onclick="showCompleteProductDetails(event)">
+                                <span>Details &#62;&#62;</span>
+                            </div> 
+                        </td>
+                    </tr>
+                </tbody>
+                <tfoot></tfoot>
+            </table>           
+        </script>
+        <script type="text/javascript" id="ProductsDialogBox">
+            <td><img data-src="Image" onclick="changeProductImage(event)"/></td>                   
+        </script>
+        <script type="text/javascript" id="productsInfo">            
+            <table cellspacing="5" cellpadding="5">                    
+                <tbody>
+                    <tr>
+                        <td>Product Name :</td>
+                        <td><span data-content="productName" data-id="recogId"></span></td>
+                    </tr>
+                    <tr>
+                        <td> Category :</td>
+                        <td> <span data-content="categoryName"></span></td>
+                    </tr>
+                    <tr>
+                        <td>Manufacturer :</td>
+                        <td> <span data-content="manufacturer"></span></td>
+                    </tr>
+                    <tr>
+                        <td>Description :</td>
+                        <td><span data-content="description"></span> </td>
+                    </tr>
+                    <tr>
+                        <td>Price : </td>
+                        <td><span data-content="productPrice" data-id="price"></span></td>
+                    </tr>
+                </tbody>
+            </table>
+            <div  class="eachViewCart" onclick="showCart()">View Cart Details &#62;&#62;</div>
+            <input type="button" value="Add To Cart" onclick="addToCart(event)" data-id="productID"/>
+        </script>
+        <script type="text/javascript" id="productMiniInfo">
+            <div class="productInCart">
+                <ul>
+                    <li>
+                        <img data-src="productImg" class="ImgSource"/>
+                    </li>
+                    <li class="detailArr">
+                        <div><span class="label">Product name</span> <span class="forDot">:</span> <span data-content="productName" data-id="recogId"></span></div> 
+                        <div><span class="label">Category </span><span class="forDot">:</span><span data-content="categoryName"></span></div>
+                        <div><span class="label">Manufacturer </span><span class="forDot">:</span><span data-content="manufacturer"></span></div>
+                        <div><span class="label">Description </span><span class="forDot">:</span><span data-content="description"></span></div>
+                        <div><span class="label">Price </span><span class="forDot">:</span><span data-content="productPrice" data-id="price"></span></div>
+                        
+                    </li>
+                    <li class="otherVaryDetails detailArr">                       
+                            <div>
+                                <span class="label1">Quantity </span>
+                                <span class="forDot">:</span>
+                                <span>
+                                    <select onchange="selectQuantity(event,id,'selectQ','priceQty')" data-id="removeID">
+                                        <option>1</option>
+                                        <option>2</option>
+                                        <option>5</option>
+                                        <option>10</option>
+                                    </select>
+                                </span>
+                                
+                                
+                                <span>
+                                    <span class="label1 space">Selected Quantity</span><span class="forDot">:</span> <span class="specifyCharge qty" data-content-prepend="selectedQuantity" data-id="selectQ">pcs.</span>
+                                </span>
+                            </div>              
+                                                           
+                         
+                            <div>
+                                <span class="label1">Price With Quantity </span><span class="forDot">:</span><span class="specifyCharge" data-content-prepend="priceWithQuant" data-id="priceQty">$</span>
+                            </div>
+                            <div>
+                                <span class="label1">Delivery Charges </span><span class="forDot">:</span> <span class="specifyCharge" data-content-prepend="deliveryCharges">$</span>
+                           </div>
+                    
+                    </li>
+                                                     
+                   <li>
+                       <div onclick="removeProduct(event)" data-id="removeID" class="removeProduct">Remove</div> 
+                   </li>
+                </ul>
+            </div>
+            
+        </script>
+        <script type="text/javascript" id="manuDetails">
+            <table cellspacing="5" cellpadding="5">
+                <thead class="subTitle">
+                    <tr>
+                        <th colspan="2">Manufacturer Details</th>
+                    </tr>                
+                </thead>
+                <tbody>
+                    <tr>
+                        <td>Manufacturer Name :</td>
+                        <td><span data-content="manuName"></span></td>
+                    </tr>
+                    <tr>
+                        <td>Seller ID : </td>
+                        <td><span data-content="sellerID"></span></td>
+                    </tr>
+                    <tr>
+                        <td>Contact : </td>
+                        <td><span data-content="sellerContact"></span></td>
+                    </tr>
+                </tbody>
+                <tfoot></tfoot>
+            </table>
+           
+        </script>
+        <script type="text/javascript" id="reviiews">
+           <li>           
+                <div class="reviewDivs userWidth1" data-content-prepend="user">:</div>                
+                <div class="reviewDivs userWidth2">
+                    <span data-content="review" class="reviewAlign" class="comments"></span></span>             
+                    <span data-content="ratingStars" class="ratingStars1"></span>  
+                </div>                         
+                         
+           </li>          
+        </script>
+        <script type='text/javascript' src='../JAVA SCRIPT/ProductsInfo.js'></script>
+        <script src="../JAVA SCRIPT/categoriesEffect.js" type="text/javascript"></script>
+    </body>
+</html>

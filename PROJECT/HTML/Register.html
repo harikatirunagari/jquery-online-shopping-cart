@@ -1,0 +1,172 @@
+<!DOCTYPE html>
+<!--
+To change this license header, choose License Headers in Project Properties.
+To change this template file, choose Tools | Templates
+and open the template in the editor.
+-->
+<html>
+    <head>
+        <title>Register</title>
+        <meta charset="UTF-8">
+        <meta name="viewport" content="width=device-width, initial-scale=1.0">  
+        
+        
+        <link href="../CSS/homePage.css" rel="stylesheet" type="text/css"/>
+        <link href="../CSS/Register.css" rel="stylesheet" type="text/css"/>
+        <script src="../jquery-3.2.1.js" type="text/javascript"></script>
+        
+        
+    </head>
+    <body>
+        <div id="mainContainer">
+            <div id="title"></div>
+            <div id="pageContainer">
+                <div class="registrationBlock">
+                    <div class="title">User Registration</div>
+                    <div class="detailsBlock userReg">
+                        <div>
+                            <ul>
+                                <li>
+                                    <span>UserName :</span>
+                                    <span><input type="text" id="uname" name="uname"></span>
+                                </li>
+                                <li>
+                                    <span>Password : </span>
+                                    <span><input type="password" id="upwd" name="upwd"></span>
+                                </li>
+                                <li>
+                                    <span>Confirm Password : </span>
+                                    <span><input type="password" id="cpwd" name="cpwd"></span>
+                                </li>
+                                <li> 
+                                    <span>Mail Id : </span>
+                                    <span><input type="text" id="uemail" name="uemail"></span>
+                                </li>
+                                <li>
+                                    <span>Alternate Mail Id :</span>
+                                    <span><input type="text" id="altemail" name="altemail"></span>
+                                </li>   
+                            </ul>    
+                        </div>                                         
+                    </div>
+                    <div class="detailsBlock heightPersonal">
+                       <div class="personalDetailsTitle">Personal Details</div>
+                       <div class="onlyDetails">
+                            <ul>                               
+                                <li>
+                                    <span><input type="text" id="ufname" placeholder="First Name" name="ufname"></span>                                 
+                                    <span><input type="text" id="mname" placeholder="Middle Name" name="mname"></span>
+                                    <span><input type="text" id="lname" placeholder="Last Name" name="lname"></span>
+                                </li>                                
+                                <li>
+                                    <span>
+                                        Gender : 
+                                        <input type="radio" name="gender" value="Male">Male
+                                        <input type="radio" name="gender" value="Female">Female
+                                    </span>
+                                </li>
+                                
+                                <li>
+                                    <span class="lang">
+                                        Languages Known :
+                                        <input type="checkbox" name="language" value="English">English
+                                        <input type="checkbox" name="language" value="Telugu">Telugu
+                                        <input type="checkbox" name="language" value="Hindi">Hindi
+                                    </span>
+                                </li>
+                                
+                                <li class="comm"> 
+                                    Communication : <br/>                               
+                                    <span>
+                                        <div>Landline : </div>
+                                        <div><input type="text" name="landline" id="lanlineNo"></div>
+                                    </span>
+                                    <span>
+                                        <div>Mobile Number : </div>
+                                        <div><input type="text" id="mobileNo" name="mobileNo"></div>
+                                    </span>
+                                    <span>
+                                        <div>Alternate Mobile Number : </div>
+                                        <div><input type="text" name="altmobileNo" id="altmobileNo"></div>
+                                    </span>
+                                </li>                                
+                            </ul>
+                        </div>
+                    </div>
+                    <div class="detailsBlock eduBlock">
+                        <div class="educationDetailsTitle">Educational Details</div>
+                        <div class="onlyDetails">
+                            <ul>                               
+                                <li>
+                                    <span>Highest Qualification :</span>
+                                    <span>
+                                        <select id="highestQualification">
+                                            <option value="-1">Select Highest Qualification</option>
+                                            <option>PhD</option>
+                                            <option>Masters</option>
+                                            <option>Degree</option>
+                                            <option>Under Graduate</option>                                    
+                                        </select>
+                                    </span>
+                                </li>
+                                <li>
+                                    <span>Specification : </span>
+                                    <span><input type="text" name="specification" id="specification" disabled="disabled"></span>
+                                </li>
+                               
+                                <li>
+                                    <span>Stream : </span>
+                                    <span>
+                                        <select id="stream" disabled="disabled">
+                                            <option value="-1">Select Stream</option>
+                                            <option>Computer Stream</option>
+                                            <option>Home Science</option>
+                                            <option>Computer Science</option>
+                                            <option>Computer Programming</option>
+                                        </select>
+                                    </span>
+                                </li>
+                                <li>
+                                    <span>Institution Name :</span> 
+                                    <span><input type="text" name="institutionName" id="institutionName" disabled="disabled"></span>
+                                </li>
+                                <li>
+                                    <span>University : </span>
+                                    <span><input type="text" name="university" id="university" disabled="disabled"></span>
+                                </li>
+                            </ul>
+                        </div>
+                    </div>
+                    <div class="detailsBlock addrDetails">
+                        <div class="addressDetailsTitle">Communication Details</div>
+                        <div class="onlyDetails">
+                            <div class="addressDetails" id="officialAddress">
+                                <h4>Official Address</h4>
+                            </div>
+                            <input type="checkbox" name="sameAddr" id="sameAddr">Same as Official Address
+                            <div class="addressDetails" id="personalAddress">
+                                <h4>Personal Address</h4>
+                            </div>
+                        </div> 
+                               
+                    </div>
+                    <div class="submitBlock">
+                            <input type="button" value="submit" onclick="submitUserData()">
+                    </div> 
+                </div>
+            </div>
+            
+            
+            <div id="bottomContainer"></div>
+            
+            
+        </div>
+       
+   
+        <script src="../JAVA SCRIPT/homePage.js" type="text/javascript"></script>
+        
+        
+        <script src="../JAVA SCRIPT/countriesList.js" type="text/javascript"></script>
+        <script src="../JAVA SCRIPT/Register.js" type="text/javascript"></script>
+    </body>
+</html>
